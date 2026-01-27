@@ -1,6 +1,10 @@
 # Classic Game: Big fish eat small fish!
-## exe file 
-[click here to download](https://github.com/user-attachments/files/23327285/2.2.zip)
+## How to use
+Download below:
+- [StandardVersion, Same with the source code](https://github.com/Just-A-Freshman/Big-fish-eat-small-fish/releases/download/exe/StandardVersion.zip)
+- [SimplifiedVersion, use rectangles as fish](https://github.com/Just-A-Freshman/Big-fish-eat-small-fish/releases/download/exe/SimplifiedVersion.zip)
+
+
 ## The main UI: 
 ![image-202411081257](ui/mainGame.png)
 
